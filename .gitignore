@@ -118,6 +118,8 @@ celerybeat-schedule
 # Environments
 .env
 .venv
+.venv-assignment4/
+/tmp/pdfs/
 env/
 venv/
 ENV/

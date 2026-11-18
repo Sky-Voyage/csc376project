@@ -1,0 +1,23 @@
+{
+  "example_dimensions": true,
+  "layout": "bank_towers",
+  "pier_block_mm": [74, 23, 13],
+  "deck_block_mm": [100, 50, 18],
+  "pier_centre_mm": [460, 160],
+  "pad_spacing_mm": 40,
+  "tower_column_spacing_mm": 44,
+  "tower_grasp_offset_mm": 20,
+  "tower_standoff_mm": 80,
+  "pier_gap_mm": 20,
+  "bank_inner_gap_mm": 60,
+  "bank_size_mm": [125, 125],
+  "bank_height_mm": 125,
+  "deck_joint_gap_mm": 20,
+  "supply_xy_mm": [[400, -160], [530, -160], [660, -160], [400, -290], [530, -290], [660, -290], [400, -420], [540, -420]],
+  "safe_tcp_z_mm": 450,
+  "linear_speed_mm_s": 200,
+  "angular_speed_deg_s": 60,
+  "gripper_opening_mm": 80,
+  "gripper_margin_mm": 6,
+  "observe_seconds": 10
+}
